@@ -1,5 +1,5 @@
 import Sidebar from "./component/Sidebar/Sidebar"
-import ChatSection from "./component/chatSection/chatSection"
+import ChatSection from "./component/ChatSection/ChatSection"
 import Separation from "./component/Separation/Separation"
 import { useContext } from "react";
 import { dataContext } from "./context/UserContext";
